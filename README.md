@@ -1,9 +1,8 @@
-# 👋 Hi, I'm Asep Obay
+# 👋 Hi, I'm Asep Obay Badilah
 
 ### 💻 Software Developer | Web Developer | UI/UX Enthusiast
 
-I build web applications and information systems
-with a focus on practical business solutions.
+I build web applications and information systems with a focus on practical business solutions, clean interfaces, and efficient workflows.
 
 ---
 
@@ -13,8 +12,8 @@ with a focus on practical business solutions.
 - ⚙️ Laravel & PHP Development
 - 🗄️ Database & Information Systems
 - 🎨 UI/UX Design
-- 📱 Mobile Development
-- 🔧 Business & Inventory Systems
+- 📦 Inventory & Business Systems
+- 📱 Mobile Application Development
 
 ---
 
@@ -25,61 +24,60 @@ with a focus on practical business solutions.
 - PHP
 - Laravel
 - JavaScript
+- React
 - HTML
 - CSS
 - Bootstrap
+- Tailwind CSS
 - Flutter
-- Tailwind
-- React
 
 ### Database
-- MogoDB
+
 - MySQL
+- MongoDB
 - Firebase
 
 ### Tools
 
-- Git
-- GitHub
+- Git & GitHub
+- VS Code
 - Figma
 - Photoshop
-- VS Code
 
 ---
 
 ## 📌 Featured Projects
 
-### 🏢 Business Information System
-http://sim-kop.kopkar-65.com/login
+### 🏢 SIM-KOP — Cooperative Management System
 
-Web-based information system designed to support
-business operations, data management and reporting.
+Web-based cooperative management information system built with Laravel and MySQL.
 
-### 📦 Inventory Management System 
-http://inventory.azizfrohman.my.id/
+**Tech:** Laravel • PHP • MySQL • JavaScript
 
-Web application for managing products,
-stock transactions and inventory reports.
+### 📦 Inventory Management System
+
+Web-based inventory management system for managing products, stock transactions, companies, and inventory reports.
+
+**Tech:** Laravel • PHP • MySQL • JavaScript
 
 ### 🤝 Lensa Hub Optic Grand
 
-Collaborative project developed together with
-Aziz Fatkhu Rohman.
+Collaborative project developed together with Aziz Fatkhu Rohman.
+
+**Tech:** Laravel • PHP • MySQL • JavaScript • React • Tailwind CSS
 
 ---
 
 ## 🎨 UI/UX
 
-Interested in creating clean, responsive,
-and user-friendly interfaces.
+Interested in creating clean, responsive, and user-friendly interfaces with a focus on usability and practical business needs.
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-- GitHub: @AsepObay
-- Portfolio: Coming Soon
-- LinkedIn: Coming Soon
+- GitHub: [@AsepObay](https://github.com/AsepObay)
+- Portfolio: [WebStudio](https://webstudio.azizfrohman.my.id)
 
 ---
 
